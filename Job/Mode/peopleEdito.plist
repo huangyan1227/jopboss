@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>工作名稱</string>
+	<string>工作日期</string>
+	<string>上班時間</string>
+	<string>下班時間</string>
+	<string>工作地址</string>
+	<string>空缺人數</string>
+	<string>時薪(HK$)</string>
+	<string>津贴(HK$)</string>
+	<string>總數(HK$)</string>
+	<string>出糧方式</string>
+	<string>工作語言</string>
+	<string>年齡要求</string>
+	<string>服裝守則</string>
+	<string>申請文件</string>
+	<string>發佈日期</string>
+	<string>工作詳情</string>
+</array>
+</plist>
